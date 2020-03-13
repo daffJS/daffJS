@@ -9,7 +9,7 @@ Sannsynligvis den daffeste måten å lage en nettside på. Fra Porsgrunns størs
 Alt du trenger for å komme i gang er å kjøre fila og gi noe parametre.
 
 ```
-java -jar DaffJS input
+java -jar DaffJS.jar input
 ```
 
 Foreløpig er eneste mulige input ".."
