@@ -14,7 +14,7 @@ public class DaffJS {
           myWriter.write("<html> \n");
           myWriter.write(" <title>daffJS hacket reisverk</title>\n");
           myWriter.write(" <body>\n");
-          myWriter.write("  <h1>passord: daffolini<h1>\n");
+          myWriter.write("  <h1>passord: trodde du at du skulle finne passordet her?<h1>\n");
           myWriter.write("  <footer>Powered by daffJS</footer>\n");
           myWriter.write(" </body>\n");
           myWriter.write("</html>\n");
